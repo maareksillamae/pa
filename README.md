@@ -13,4 +13,22 @@ Antud kursus annab ülevaate porgrammeerimise aluste baasteadmiste php keele baa
  * git.exe ühendus phpstormiga
  * github.com repo loomine ja ühendamine
  
- 
+ ## 25.09.2019
+ * git kasutamine käsurealt
+ kui repo ei ole inistialiseeritud, siis tuleb see ära teha
+````
+git init
+````
+nüüd lisa muudatud fail jälgimissüsteemi (git)
+````
+git add faili nimi
+````
+koosta kirjeldus antud muutustle
+````
+git commit -m " kirjelduse sõne"
+````
+lükka lokaalsest repost kirjeldus kausreposse (näiteks github.com)
+```
+git push -uf origin master
+```
+siin origin on ühenduse nimi ja master on pea haru 
