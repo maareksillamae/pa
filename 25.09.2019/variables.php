@@ -19,3 +19,6 @@ echo 'Email:'.$email.'<br>';
 echo 'Vanus:'.$pikkus.'<br>';
 echo 'Kaal:'.$kaal.'<br>';
 
+//dynaamiline defineerimine muutujatel
+$kehamassiIndeks= $kaal / ($pikkus * $pikkus);
+echo 'kehamassiindeks on'.$kehamassiIndeks. '<br>';
