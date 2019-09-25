@@ -32,3 +32,14 @@ lükka lokaalsest repost kirjeldus kausreposse (näiteks github.com)
 git push -uf origin master
 ```
 siin origin on ühenduse nimi ja master on pea haru 
+
+### gir graafiliselt on VCS toolsi all
+````
+Kasuta git toolsi VCS all
+````
+````
+Commit ja push ning eemdalda lisa check boxid
+````
+````
+kasuta ka crtl+k
+````
