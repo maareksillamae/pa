@@ -7,9 +7,9 @@ $raadius = $_GET['raadius'];
 echo 'sisetuatud raadius on'.$raadius.'<br>';
 //arvutused
 //ringi pindala
-$ringiPindala = 3.14 * $raadius * $raadius;
+$ringiPindala = pi() * $raadius * $raadius;
 //ringi ymberm66t
-$ringiUmbermoot = 3.14 * 2*$raadius;
+$ringiUmbermoot = pi() * 2*$raadius;
 //muutujate andmete tyybi ja v22rtuste kontroll
 /*var_dump($ringiPindala);
 var_dump($ringiUmbermoot);*/
