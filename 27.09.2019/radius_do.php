@@ -14,5 +14,6 @@ $ringiUmbermoot = pi() * 2*$raadius;
 /*var_dump($ringiPindala);
 var_dump($ringiUmbermoot);*/
 //v2ljasta tulemused
-echo 'ringi pindala on '.$ringiPindala.'<br>';
-echo 'ringi umbermoot on '.$ringiUmbermoot.'<br>';
+$ringiPindalaummardatud = round($ringiPindala, 3);
+echo 'ringi pindala on '.$ringiPindalaummardatud.'<br>';
+echo 'ringi umbermoot on '.round($ringiUmbermoot, 3).'<br>';
