@@ -83,3 +83,7 @@ Radius arvutamine
  
  echo 'ringi umbermoot on '.round($ringiUmbermoot, 3).'<br>';
  
+ * www.metshein.com
+ 
+ ###https://www.metshein.com/course/php-alused/
+ 
