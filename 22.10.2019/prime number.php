@@ -3,10 +3,9 @@
 //define funktsion
 function isPrimeNumber($number)
 {
-
    // $result=''
     if($number<2){
-        $result = $number.'antud arv ei kuulu valitud vahemiku sisse<br>';
+        echo $number.'antud arv ei kuulu valitud vahemiku sisse<br>';
     }
     else{
         $divider = 2;
@@ -15,16 +14,23 @@ function isPrimeNumber($number)
 
         }
         if ($number == $divider){
-            $result = $number.' on algarv<br>';
-            $sum = $sum+$number;
-
+            $result = true;
         }
         else{
-            $result = $number. 'ei ole alg arv<br>';
+            $result = false;
         }
     }
 
     return $result;
 }
+function isprimenumberdescription($number ,$isprime) {
+    if($isprime){
+        echo $number.'ta on algarv';
+    }
+    else{
+        echo $number. 'ei ole algarv';
+    }
+}
+$number= rand(1,10);
 //use function
-isPrimeNumber(rand(0,1000));
+isprimenumberdescription($number, isPrimeNumber($number));
