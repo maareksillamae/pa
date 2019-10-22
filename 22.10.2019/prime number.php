@@ -3,6 +3,8 @@
 //define funktsion
 function isPrimeNumber($number)
 {
+
+   // $result=''
     if($number<2){
         echo'antud arv ei kuulu valitud vahemiku sisse<br>';
     }
