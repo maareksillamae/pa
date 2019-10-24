@@ -88,11 +88,11 @@ Radius arvutamine
  ###https://www.metshein.com/course/php-alused/
  
  
- ##07.10.2019 operaatorid
+ ## 07.10.2019 operaatorid
  
  postpre, temp, omistamine ja matemaatika
  
- ##08.10.2019
+ ## 08.10.2019
  
  Php Tingimuslaused.
  
@@ -106,7 +106,7 @@ Radius arvutamine
  
  SWITCH tingimusel on lihtsam lisada suurem kogus vastusevariante
  
- ##17.10.2019
+ ## 17.10.2019
 
 Php tsüklid.
 
@@ -118,10 +118,10 @@ do… - Do…while on aga järelkontrolliga tsükkel. Selle tsükli puhul välja
 
 Tsükleid saab sisestada tsüklite sisse.
 
-##21.10.2019
+## 21.10.2019
 
 kodused ülesanded 
 
-##22.10.2019
+## 22.10.2019
 Harjutasime funktsioonide tegemist ja funktsioonide lisamine funktsioonidesse.
  
