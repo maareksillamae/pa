@@ -87,6 +87,11 @@ Radius arvutamine
  
  ###https://www.metshein.com/course/php-alused/
  
+ 
+ ##07.10.2019 operaatorid
+ 
+ postpre, temp, omistamine ja matemaatika
+ 
  ##08.10.2019
  
  Php Tingimuslaused.
@@ -112,6 +117,10 @@ while - Tegemist on eelkontrolli tsükliga, mis täidab käsku, kuni etteantud t
 do… - Do…while on aga järelkontrolliga tsükkel. Selle tsükli puhul väljastatakse lause enne ja siis kontrollitakse tingimust.
 
 Tsükleid saab sisestada tsüklite sisse.
+
+##21.10.2019
+
+kodused ülesanded 
 
 ##22.10.2019
 Harjutasime funktsioonide tegemist ja funktsioonide lisamine funktsioonidesse.
